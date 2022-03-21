@@ -6,6 +6,6 @@
 
 As this is still one of my favourite examples of what data visualisation can do, I have extracted the data for educational purpose.
 
-Find the [Jupyter Notebook](data/Data wrangling.ipynb) (using Julia) to read about the data extraction process.
+Find the [Jupyter Notebook](data/Data%20wrangling.ipynb) (using Julia) to read about the data extraction process.
 
 Here is an [Observable Notebook](observablehq.com/@jnsprnw/the-jobless-rate-for-people-like-you) to play with the data.
